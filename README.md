@@ -7,10 +7,10 @@
 - 'tsio.sh': Monitors VM system statistics and places the results into a new file.
 
 ## Usage
-- Install this repo locally run : '''git clone https://github.com/pjferguson/LinuxNetTools'''
+- Install this repo locally run : ```git clone https://github.com/pjferguson/LinuxNetTools```
 - Modify permissions using chmod, more on chmod: https://kb.iu.edu/d/abdb
-- To make the scripts executable from any directory: '''mv /path/to/{script} /usr/local/bin/''''
-- '''./script_name''', replace script_name with the script you'd like to run. 
+- To make the scripts executable from any directory: ```mv /path/to/{script} /usr/local/bin/```
+- ```./script_name```, replace script_name with the script you'd like to run. 
 
 ## License
 MIT License
